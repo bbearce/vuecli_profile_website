@@ -1,4 +1,24 @@
-# vuecli_profile_website
-I want to use vue and not just the cdn but I want to keep it simple and not use nuxt. This is an exploratory experiment.
+# profile-site
 
-cd into ```profile-site``` to use project and use the README in that directory.
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
