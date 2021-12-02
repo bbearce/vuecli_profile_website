@@ -1,7 +1,8 @@
 <template>
-    <video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg">
+    <!-- <video id="background-video" autoplay="autoplay" loop muted poster="https://assets.codepen.io/6093409/river.jpg">
       <source src="https://assets.codepen.io/6093409/river.mp4" type="video/mp4">
-    </video>
+    </video> -->
+    <video id="background-video" autoplay="autoplay" loop muted poster="https://assets.codepen.io/6093409/river.jpg"  src="https://assets.codepen.io/6093409/river.mp4"></video>
 </template>
 
 <script>
