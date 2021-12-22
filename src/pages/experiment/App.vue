@@ -2,7 +2,7 @@
   <div> <!-- template can only have one root element -->
     <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
     <!-- <HelloWorld msg="Welcome to Your Vue.js App"/> -->
-    <NavBar/>
+    
     <FrontPageVideo/>
   </div>
 
@@ -10,14 +10,14 @@
 
 <script>
 // import HelloWorld from './components/HelloWorld.vue' // demo from vue cli
-import NavBar from './components/NavBar.vue'
-import FrontPageVideo from './components/FrontPageVideo.vue'
+// import NavBar from '@/components/NavBar.vue'
+import FrontPageVideo from '@/components/FrontPageVideo.vue'
 
 export default {
   name: 'App',
   components: {
     // HelloWorld,
-    NavBar,
+    // NavBar,
     FrontPageVideo,
   }
 }
