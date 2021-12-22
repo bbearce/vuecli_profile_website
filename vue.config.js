@@ -16,14 +16,6 @@ module.exports = {
             chunks: ['chunk-vendors', 'chunk-common', 'experiment']
         },
     },
-    devServer: {
-        historyApiFallback: {
-          rewrites: [
-            { from: /\/index/, to: '/index.html' },
-            { from: /\/experiment/, to: '/experiment.html' }
-          ]
-        }
-      },
     // https://www.youtube.com/watch?v=agaC4oKn_0k
     css: {
         loaderOptions: {
