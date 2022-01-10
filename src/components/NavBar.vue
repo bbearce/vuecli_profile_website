@@ -1,20 +1,19 @@
 <template>
-<!-- https://www.sliderrevolution.com/resources/css-menu/ -->
-<nav class="menu">
-   <input type="checkbox" href="#" class="menu-open" name="menu-open" id="menu-open" />
-   <label class="menu-open-button" for="menu-open">
-    <span class="lines line-1"></span>
-    <span class="lines line-2"></span>
-    <span class="lines line-3"></span>
-  </label>
-
-   <a href="#" class="menu-item blue"><i class="fa fa-file"></i> </a>
-   <a href="#" class="menu-item green"> <i class="fa fa-address-card"></i> </a>
-   <a href="#" class="menu-item red"> <i class="fa fa-github"></i> </a>
-   <a href="#" class="menu-item purple"> <i class="fab fa-linkedin-in"></i> </a>
-   <a href="#" class="menu-item orange"> <i class="fas fa-briefcase"></i> </a>
-   <a href="#" class="menu-item lightblue"> <i class="far fa-edit"></i> </a>
-</nav>
+   <!-- https://www.sliderrevolution.com/resources/css-menu/ -->
+   <nav class="menu">
+      <input type="checkbox" href="#" class="menu-open" name="menu-open" id="menu-open" />
+      <label class="menu-open-button" for="menu-open">
+      <span class="lines line-1"></span>
+      <span class="lines line-2"></span>
+      <span class="lines line-3"></span>
+   </label>
+      <a href="/main_site/resume" class="menu-item blue"><i class="fa fa-file"></i> </a>
+      <a href="/main_site/contact" class="menu-item green"> <i class="fa fa-address-card"></i> </a>
+      <a href="https://github.com/bbearce" class="menu-item red"> <i class="fa fa-github"></i> </a>
+      <a href="https://www.linkedin.com/in/benjamin-bearce-12aa6b48/" class="menu-item purple"> <i class="fab fa-linkedin-in"></i> </a>
+      <a href="/main_site/portfolio" class="menu-item orange"> <i class="fas fa-briefcase"></i> </a>
+      <a href="/main_site/blog" class="menu-item lightblue"> <i class="far fa-edit"></i> </a>
+   </nav>
 </template>
 
 <script>

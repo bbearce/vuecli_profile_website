@@ -11,9 +11,10 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "express": "^4.17.1",
+    "marked": "^4.0.8",
     "serve-static": "^1.14.1",
     "vue": "^3.0.0",
-    "vue-router": "^3.5.3"
+    "vue-router": "^4.0.12"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
@@ -25,7 +26,10 @@
     "eslint-plugin-vue": "^7.0.0",
     "node-sass": "^6.0.1",
     "sass": "^1.43.5",
-    "sass-loader": "^10.1.1"
+    "sass-loader": "^10.1.1",
+    "vue-loader": "^15.9.8",
+    "vue-markdown-loader": "^2.5.0",
+    "vue-template-compiler": "^2.6.14"
   },
   "eslintConfig": {
     "root": true,
