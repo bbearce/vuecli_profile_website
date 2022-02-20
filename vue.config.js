@@ -1,17 +1,15 @@
 // vue.config.js
 module.exports = {
     pages:{
-        index: {
-            entry: "src/pages/front_page/main.js",
+        'index': {
+            entry: "./src/pages/front_page/main.js",
             template: "public/index.html",
-            filename: "index.html",
             title: "Index Page",
             chunks: ['chunk-vendors', 'chunk-common', 'index']
         },
-        main_site: {
-            entry: "src/pages/main_site/main.js",
+        'main_site': {
+            entry: "./src/pages/main_site/main.js",
             template: "public/index.html",
-            filename: "main_site.html",
             title: "Main Site",
             chunks: ['chunk-vendors', 'chunk-common', 'main_site']
         },

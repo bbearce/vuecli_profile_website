@@ -30,7 +30,7 @@ const routes = [
       path: "/main_site/resume", name: "Resume", component: Resume
     },
     {
-      path: "/main_site/Contact", name: "Contact", component: Contact
+      path: "/main_site/contact", name: "Contact", component: Contact
     },
     {
       path: "/main_site/portfolio", name: "Portfolio", component: Portfolio
@@ -49,6 +49,7 @@ const router = createRouter({
     // 4. Provide the history implementation to use. We are using the hash history for simplicity here.
     history: createWebHistory(),
     routes, // short for `routes: routes`
+
   })
 
 
