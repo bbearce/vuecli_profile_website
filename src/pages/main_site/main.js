@@ -9,18 +9,9 @@ import PageNotFound from '@/views/PageNotFound.vue'
 import Resume from '@/views/Resume.vue'
 import Contact from '@/views/Contact.vue'
 import Portfolio from '@/views/Portfolio.vue'
-import Blog from '@/views/Blog.vue'
-// import test from '@/components/foo.md'
-// import * as fs from 'fs'
+import Blog_List from '@/views/Blog_List.vue'
+import Blog from '@/components/Blog.vue'
 
-// fs.readFile('@/components/foo.md', 'utf8', (err, data) => {
-//   if (err) {
-//     console.error(err)
-//     return
-//   }
-//   debugger
-//   console.log(data)
-// })
 
 const routes = [
     {
@@ -36,7 +27,10 @@ const routes = [
       path: "/main_site/portfolio", name: "Portfolio", component: Portfolio
     },
     {
-      path: "/main_site/blog", name: "Blog", component: Blog
+      path: "/main_site/blog_list", name: "Blog_List", component: Blog_List
+    },
+    {
+      path: "/main_site/blog_post/:date", name: "Blog_Post", component: Blog
     },
     {
       path: '/:catchAll(.*)*',

@@ -12,7 +12,7 @@
       <a href="https://github.com/bbearce" class="menu-item red"> <i class="fa fa-github"></i> </a>
       <a href="https://www.linkedin.com/in/benjamin-bearce-12aa6b48/" class="menu-item purple"> <i class="fab fa-linkedin-in"></i> </a>
       <a href="/main_site/portfolio" class="menu-item orange"> <i class="fas fa-briefcase"></i> </a>
-      <a href="/main_site/blog" class="menu-item lightblue"> <i class="far fa-edit"></i> </a>
+      <a href="/main_site/blog_list" class="menu-item lightblue"> <i class="far fa-edit"></i> </a>
    </nav>
 </template>
 
