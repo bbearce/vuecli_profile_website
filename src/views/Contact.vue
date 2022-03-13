@@ -1,15 +1,17 @@
 <template>
-  <div class="container">
-    <h1>Drop me a line:</h1>
-    <form ref="form" @submit.prevent="sendEmail">
-      <label>Name</label>
-      <input type="text" name="user_name" v-model="name">
-      <label>Email</label>
-      <input type="email" name="user_email" v-model="email">
-      <label>Message</label>
-      <textarea name="message" v-model="message"></textarea>
-      <input type="submit" value="Send">
-    </form>
+  <div class="container" v-bind:style="{ 'background-image': 'url(' + background_image + ')', 'background-attachment':'fixed', 'background-size':'cover', 'height':'100vh' }">
+    <div class="form">
+      <h1>Drop me a line:</h1>
+      <form ref="form" @submit.prevent="sendEmail">
+        <label>Name</label>
+        <input type="text" name="user_name" v-model="name">
+        <label>Email</label>
+        <input type="email" name="user_email" v-model="email">
+        <label>Message</label>
+        <textarea name="message" v-model="message"></textarea>
+        <input type="submit" value="Send">
+      </form>
+    </div>
   </div>
 </template>
 
@@ -25,7 +27,10 @@ export default {
     return {
       name: '',
       email: '',
-      message: ''
+      message: '',
+      background_image: '/portfolio/some_large_landscape.jpg'
+      // background_image: '/portfolio/fall_large.jpg'
+      // background_image: '/portfolio/polygon_mountain.jpg'
     }
   },
   methods: {
@@ -46,9 +51,13 @@ export default {
 </script>
 
 <style scoped>
+.container {
+  padding: 80px;
+}
+
 * {box-sizing: border-box;}
 
-.container {
+.form {
   display: block;
   margin:auto;
   text-align: center;

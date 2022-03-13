@@ -8,7 +8,7 @@ import HelloWorld from '@/components/HelloWorld.vue' // demo from vue cli
 import PageNotFound from '@/views/PageNotFound.vue'
 // import Resume from '@/views/Resume.vue' // TBD
 import Contact from '@/views/Contact.vue'
-import Portfolio from '@/views/Portfolio.vue'
+import Portfolio_List from '@/views/Portfolio_List.vue'
 import Blog_List from '@/views/Blog_List.vue'
 import Blog from '@/components/Blog.vue'
 
@@ -25,7 +25,7 @@ const routes = [
       path: "/main_site/contact", name: "Contact", component: Contact
     },
     {
-      path: "/main_site/portfolio", name: "Portfolio", component: Portfolio
+      path: "/main_site/portfolio", name: "Portfolio_List", component: Portfolio_List
     },
     {
       path: "/main_site/blog_list", name: "Blog_List", component: Blog_List

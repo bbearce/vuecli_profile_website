@@ -1,7 +1,5 @@
 <template>
-  <div> <!-- template can only have one root element -->
-    <router-view />
-  </div>
+  <router-view />
 
 </template>
 
@@ -12,7 +10,9 @@ export default {
 
   },
   data() {
-
+    return{
+      background_image: '/portfolio/fall_large.jpg'
+    }
   },
   computed: {
 
@@ -28,6 +28,5 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
 }
 </style>

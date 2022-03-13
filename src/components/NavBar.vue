@@ -9,8 +9,8 @@
    </label>
       <a href="../BenBearce_Resume.pdf" class="menu-item blue"><i class="fa fa-file"></i> </a>
       <a href="/main_site/contact" class="menu-item green"> <i class="fa fa-address-card"></i> </a>
-      <a href="https://github.com/bbearce" class="menu-item red"> <i class="fa fa-github"></i> </a>
-      <a href="https://www.linkedin.com/in/benjamin-bearce-12aa6b48/" class="menu-item purple"> <i class="fab fa-linkedin-in"></i> </a>
+      <a href="https://github.com/bbearce" class="menu-item red" target="_blank"> <i class="fa fa-github"></i> </a>
+      <a href="https://www.linkedin.com/in/benjamin-bearce-12aa6b48/" class="menu-item purple" target="_blank"> <i class="fab fa-linkedin-in"></i> </a>
       <a href="/main_site/portfolio" class="menu-item orange"> <i class="fas fa-briefcase"></i> </a>
       <a href="/main_site/blog_list" class="menu-item lightblue"> <i class="far fa-edit"></i> </a>
    </nav>

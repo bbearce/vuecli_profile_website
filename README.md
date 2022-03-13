@@ -15,10 +15,17 @@ npm run serve
 npm run build
 ```
 
+
+### Run build code with express
+```bash
+node server.js
+```
+
 ### Lints and fixes files
 ```
 npm run lint
 ```
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,6 +1,6 @@
 <template>
-  <div>
-    <h1>Blog_List</h1>
+  <div v-bind:style="{ 'background-image': 'url(' + background_image + ')', 'background-attachment':'fixed', 'background-size':'cover' }">
+    <br>
     <Blog_List_Entry v-for="post in posts" 
       :key="post.id" 
       :title="post.title" 
@@ -22,7 +22,9 @@ export default {
   },
   data() {
     return {
-      posts: null
+      posts: null,
+      // background_image: '/portfolio/red_pink_flowers_forest.jpg'
+      background_image: '/portfolio/fall_large.jpg'
     }
   },
   created() {
@@ -36,3 +38,7 @@ export default {
   },
 }
 </script>
+
+<style scoped>
+
+</style>

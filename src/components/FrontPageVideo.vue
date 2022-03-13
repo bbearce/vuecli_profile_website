@@ -16,7 +16,7 @@
 
 </script>
 
-<style>
+<style scoped>
     #background-video {
     width: 100vw;
     height: 100vh;

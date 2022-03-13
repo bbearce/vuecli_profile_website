@@ -1,0 +1,53 @@
+[
+    {
+        "id": 1,
+        "title": "My New Profile Website",
+        "desc": "I revamped my profile website (yes the one you're on) using vuejs and added a blog. This project is cool because while Vuejs and other js frameworks like angular and react are meant to build SPAs (single page applications), this features 2 SPAs as a MPA (multi-page app)",
+        "author": "Benjamin Bearce",
+        "date": "2022-02-26",
+        "image":"first_project/first_project.png",
+        "link":"https://profile-site-vuecli.herokuapp.com/",
+        "github":"https://github.com/bbearce/vuecli_profile_website"
+    },
+    {
+        "id": 2,
+        "title": "Mass General Brigham Community Connects",
+        "desc": "Mass General Brigham Community Connects connect colleagues who live in the same neighborhood during this extraordinary time. Whether you would like to find colleagues to carpool to work or are looking for colleagues in your neighborhood to connect, please read on! This app uses google maps api and geocoding api to process new posts and put them on a map! Icons specific to post type are displayed on the map and a post table below shows all posts in view. Lastly this app bosts integration with Okta using SAML so that only organization specific users can use it.",
+        "author": "Benjamin Bearce",
+        "date": "2020-04-16",
+        "image":"second_project/second_project.png",
+        "link":"https://community-help.mgh.harvard.edu/",
+        "github":"https://github.com/QTIM-Lab/MGH-Services_App-w-SAML"
+    },
+    {
+        "id": 3,
+        "title": "MedICI Platform",
+        "desc": "The Medical Imaging Challenge Infrastructure (MedICI) promotes innovation through collaboration and harness the ingenuity of the public. It is based on the Microsoft open-source project CodaLab and integrates the specialized image software such as ePad for DICOM images and caMicroscope for digital pathology whole-slide images. Other customizations were incorporated based on user input.",
+        "author": "Benjamin Bearce and Dr. Jayashree Kalpathy-Cramer",
+        "date": "2015-01-01...Present",
+        "image":"third_project/third_project.png",
+        "link":"https://www.medici-challenges.org/",
+        "github":"https://github.com/QTIM-Lab/MedICI-Website"
+    },
+    {
+        "id": 4,
+        "title": "Image Comparator",
+        "desc": "Purpose: Originally set up as a static webpage and server to host classifier/pairwise comparator tasks for images. It hosts a couple different custom apps for classification of images and experiments with different layouts for annotators and radiologists to use to annotate and double check their responses.",
+        "author": "Benjamin Bearce and Dr. Jayashree Kalpathy-Cramer",
+        "date": "2015-01-01...Present",
+        "image":"fourth_project/fourth_project.png",
+        "link":"http://image-comparator.eastus.cloudapp.azure.com:8080/two_image",
+        "github":"https://github.com/QTIM-Lab/Image-Comparator"
+    },
+    {
+        "id": 5,
+        "title": "Brewculator",
+        "desc": "This is a passion project of mine. A couple years ago my buddy Kyle Schluns and I started brewing our own beer recipes. We would use excel spreadsheets, and still sometimes do, to track our recipes and to calculate our ingredient quantities. I first built this very same app in R and it's 2 projects down(R Brew App) on this site. I then moved to Rmd documents, with all the calculations baked into the code. This is represented by the site in the below project (The Grateful Brauer). Each detailed recipe under the Ales and Lagers tab is an Rmd rendered page. This allows for a forum like post that we can use for doing a brain dump when researching a beer. The project on display here however, is my full stack solution. This is a Flask app composed of python, postgres, html, css, and javascript and utilizes AJAX calls for saving, loading, and deleting recipes. This is awesome, because it means we don't have to refresh the page and lose our progress when we save a recipe. It uses a couple of javascript packages for charts from chartjs and a little jQuery.",
+        "author": "Benjamin Bearce",
+        "date": "2018-10-01",
+        "image":"fifth_project/fifth_project.png",
+        "link":"http://www.thegratefulbrauer.com/",
+        "github":"https://github.com/bbearce/thegratefulbrauer"
+    }
+
+]
