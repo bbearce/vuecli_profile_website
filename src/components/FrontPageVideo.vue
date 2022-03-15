@@ -8,8 +8,10 @@
           muted
           playsinline
           poster="https://assets.codepen.io/6093409/river.jpg"  
-          src="https://assets.codepen.io/6093409/river.mp4">
+          src="/GH012244_time_lapse_x8.mp4">
     </video>
+    <!-- src="https://assets.codepen.io/6093409/river.mp4"> -->
+    
 </template>
 
 <script>
