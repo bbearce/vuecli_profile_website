@@ -8,9 +8,9 @@
           muted
           playsinline
           poster="https://assets.codepen.io/6093409/river.jpg"  
-          src="/GH012245_time_lapse_x16.mp4">
+          src="https://assets.codepen.io/6093409/river.mp4">
     </video>
-    <!-- src="https://assets.codepen.io/6093409/river.mp4"> -->
+    <!-- src="/GH012245_time_lapse_x16.mp4"> -->
     
 </template>
 
