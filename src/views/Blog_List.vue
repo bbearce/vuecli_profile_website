@@ -23,8 +23,7 @@ export default {
   data() {
     return {
       posts: null,
-      // background_image: '/portfolio/red_pink_flowers_forest.jpg'
-      background_image: '/portfolio/fall_large.jpg'
+      background_image: '/portfolio/fire_spindly.jpg'
     }
   },
   created() {

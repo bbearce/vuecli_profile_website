@@ -25,12 +25,7 @@ export default {
   data() {
     return {
       projects: null,
-      // background_image: '/portfolio/portfolio-background-header-53082_1080x675.jpg'
-      background_image: '/portfolio/fall_large.jpg'
-      // background_image: '/portfolio/polygon_mountain.jpg'
-      // background_image: '/portfolio/red_pink_flowers_forest.jpg'
-      // background_image: '/portfolio/fire_spindly.jpg'
-
+      background_image: '/portfolio/fire_spindly.jpg'
     }
   },
   created() {

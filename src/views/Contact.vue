@@ -28,9 +28,7 @@ export default {
       name: '',
       email: '',
       message: '',
-      background_image: '/portfolio/some_large_landscape.jpg'
-      // background_image: '/portfolio/fall_large.jpg'
-      // background_image: '/portfolio/polygon_mountain.jpg'
+      background_image: '/portfolio/fire_spindly.jpg'
     }
   },
   methods: {
