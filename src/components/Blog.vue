@@ -1,7 +1,7 @@
 <template>
 
-    <div>
-        <p>{{ $route.params.date }}</p>
+    <div class="blog_post_sheet">
+        <p class="date">{{ $route.params.date }}</p>
         <div v-html="markdownToHTML" />
     </div>
 
@@ -87,5 +87,20 @@ export default {
 </script>
 
 <style>
+.date {
+    text-align: right;
+}
 
+.blog_post_sheet {
+    width: 80%;
+    margin: auto;
+}
+
+h3 {
+    text-align: left;
+}
+
+p {
+    text-align: left;
+}
 </style>
