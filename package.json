@@ -1,7 +1,4 @@
 {
-  "name": "profile-site",
-  "version": "0.1.0",
-  "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
@@ -9,44 +6,17 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "connect-history-api-fallback": "^1.6.0",
-    "core-js": "^3.6.5",
+    "connect-history-api-fallback": "^2.0.0",
     "emailjs-com": "^3.2.0",
-    "express": "^4.17.1",
-    "marked": "^4.0.8",
-    "vue": "^3.0.0",
-    "vue-router": "^4.0.12"
+    "express": "^4.18.2",
+    "marked": "^4.2.2",
+    "path": "^0.12.7",
+    "sass": "^1.56.0",
+    "sass-loader": "^13.1.0",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.6"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "~4.5.0",
-    "@vue/cli-plugin-eslint": "~4.5.0",
-    "@vue/cli-service": "~4.5.0",
-    "@vue/compiler-sfc": "^3.0.0",
-    "babel-eslint": "^10.1.0",
-    "eslint": "^6.7.2",
-    "eslint-plugin-vue": "^7.0.0",
-    "node-sass": "^6.0.1",
-    "sass": "^1.43.5",
-    "sass-loader": "^10.1.1",
-    "vue-loader": "^15.9.8"
-  },
-  "eslintConfig": {
-    "root": true,
-    "env": {
-      "node": true
-    },
-    "extends": [
-      "plugin:vue/vue3-essential",
-      "eslint:recommended"
-    ],
-    "parserOptions": {
-      "parser": "babel-eslint"
-    },
-    "rules": {}
-  },
-  "browserslist": [
-    "> 1%",
-    "last 2 versions",
-    "not dead"
-  ]
+    "@vue/cli-service": "^5.0.8"
+  }
 }
