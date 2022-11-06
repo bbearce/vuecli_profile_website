@@ -8,7 +8,7 @@
       <a :href="'/main_site/blog_post/'+this.year+'-'+this.month+'-'+this.day">
         <img class="fakeimg" v-bind:src="'/blog_posts/'+this.year+'/'+this.month+'/'+this.day+'/logo.png'" style="height:200px;">
       </a>
-      <p>Some text..</p>
+      <p>{{ desc }}</p>
     </div>
   </div>
 

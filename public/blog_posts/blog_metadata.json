@@ -1,26 +1,25 @@
 [
     {
         "id": 1,
-        "title": "Title 1",
-        "desc": "Desc 1",
+        "title": "Germany Trip",
+        "desc": "Day 1: BOS -> DUB -> FRA",
         "author": "Benjamin Bearce",
-        "date": "2022-01-09",
-        "image":"logo.png"
+        "date": "2022-11-02",
+        "image":"logo.jpg",
+        "image_name_original":"PXL_20221102_021408630.jpg",
+        "custom_js": true,
+        "custom_css": true
     },
     {
         "id": 2,
-        "title": "Title 2",
-        "desc": "Desc 2",
+        "title": "Germany Trip",
+        "desc": "Day 1: BOS -> DUB -> FRA",
         "author": "Benjamin Bearce",
-        "date": "2022-02-20",
-        "image":"logo.png"
-    },
-    {
-        "id": 3,
-        "title": "Title 3",
-        "desc": "Desc 3",
-        "author": "Benjamin Bearce",
-        "date": "2022-02-20",
-        "image":"logo.png"
+        "date": "2022-11-03",
+        "image":"logo.jpg",
+        "image_name_original":"PXL_20221102_021408630.jpg",
+        "custom_js": false,
+        "custom_css": false
     }
+
 ]
