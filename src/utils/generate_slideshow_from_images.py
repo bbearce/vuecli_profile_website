@@ -4,16 +4,16 @@ client = storage.Client()  # Implicit environ set-up
 bucket_name = 'vuecli-profile-website'
 bucket = client.bucket(bucket_name)
 
-blobs_prefix = "blog_posts/2022/11/02/resized_"
-blobs_prefix = "blog_posts/2022/11/03/resized_"
-blobs_prefix = "blog_posts/2022/11/04/resized_"
-blobs_prefix = "blog_posts/2022/11/05/resized_"
+# blobs_prefix = "blog_posts/2022/11/02/resized_"
+# blobs_prefix = "blog_posts/2022/11/03/resized_"
+# blobs_prefix = "blog_posts/2022/11/04/resized_"
+# blobs_prefix = "blog_posts/2022/11/05/resized_"
 blobs_prefix = "blog_posts/2022/11/06/resized_"
-blobs_prefix = "blog_posts/2022/11/07/resized_"
-blobs_prefix = "blog_posts/2022/11/08/resized_"
-blobs_prefix = "blog_posts/2022/11/09/resized_"
+# blobs_prefix = "blog_posts/2022/11/07/resized_"
+# blobs_prefix = "blog_posts/2022/11/08/resized_"
+# blobs_prefix = "blog_posts/2022/11/09/resized_"
 
-images = [i forTotal i in bucket.list_blobs(prefix=blobs_prefix)]
+images = [i for i in bucket.list_blobs(prefix=blobs_prefix)]
 count = len(images)
 image_links = [i.public_url for i in images]
 
