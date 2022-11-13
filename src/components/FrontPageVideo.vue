@@ -7,8 +7,8 @@
           loop 
           muted
           playsinline
-          poster="https://storage.cloud.google.com/vuecli-profile-website/GH012245_small_cut_x8.png"  
-          src="https://storage.cloud.google.com/vuecli-profile-website/GH012245_small_cut_x8.mp4">
+          poster="https://storage.googleapis.com/vuecli-profile-website/GH012245_small_cut_x8.png"  
+          src="https://storage.googleapis.com/vuecli-profile-website/GH012245_small_cut_x8.mp4">
     </video>
     <!--  -->
     <!-- poster="https://assets.codepen.io/6093409/river.jpg"   -->
