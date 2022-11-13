@@ -5,7 +5,7 @@
         "desc": "Day 1: BOS -> DUB -> FRA",
         "author": "Benjamin Bearce",
         "date": "2022-11-02",
-        "image":"https://storage.cloud.google.com/vuecli-profile-website/blog_posts/2022/11/02/resized_FRA_DUB1_cropped.jpg",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/02/resized_FRA_DUB1_cropped.jpg",
         "custom_js": true,
         "custom_css": true
     },
@@ -15,7 +15,7 @@
         "desc": "Day 2: Gelnhausen",
         "author": "Benjamin Bearce",
         "date": "2022-11-03",
-        "image":"https://storage.cloud.google.com/vuecli-profile-website/blog_posts/2022/11/03/resized_gelnhausen.jpg",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/03/resized_gelnhausen.jpg",
         "custom_js": true,
         "custom_css": true
     },
@@ -25,9 +25,9 @@
         "desc": "Day 3: Movie Night",
         "author": "Benjamin Bearce",
         "date": "2022-11-04",
-        "image":"https://storage.cloud.google.com/vuecli-profile-website/blog_posts/2022/11/04/resized_moochi.jpg",
-        "custom_js": true,
-        "custom_css": true
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/04/resized_moochi.jpg",
+        "custom_js": false,
+        "custom_css": false
     },
     {
         "id": 4,
@@ -35,7 +35,7 @@
         "desc": "Day 4: Hanau Marketplatz",
         "author": "Benjamin Bearce",
         "date": "2022-11-05",
-        "image":"https://storage.cloud.google.com/vuecli-profile-website/blog_posts/2022/11/05/resized_fleich_cart2.jpg",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/05/resized_fleich_cart2.jpg",
         "custom_js": false,
         "custom_css": false
     },
@@ -45,9 +45,9 @@
         "desc": "Day 5: Recharge and Sushi Dinner",
         "author": "Benjamin Bearce",
         "date": "2022-11-06",
-        "image":"https://storage.cloud.google.com/vuecli-profile-website/blog_posts/2022/11/06/resized_sushi_dinner2.jpg",
-        "custom_js": false,
-        "custom_css": false
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/06/resized_sushi_dinner2.jpg",
+        "custom_js": true,
+        "custom_css": true
     },
     {
         "id": 6,
@@ -55,7 +55,7 @@
         "desc": "Day 6: Say Their Names (Sagen Sie ihre Namen)",
         "author": "Benjamin Bearce",
         "date": "2022-11-07",
-        "image":"https://storage.cloud.google.com/vuecli-profile-website/blog_posts/2022/11/07/resized_metzgerstra%C3%9Fe1.jpg",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/07/resized_metzgerstra%C3%9Fe1.jpg",
         "custom_js": false,
         "custom_css": false
     },
@@ -65,7 +65,7 @@
         "desc": "Day 7: Frankfurt",
         "author": "Benjamin Bearce",
         "date": "2022-11-08",
-        "image":"https://storage.cloud.google.com/vuecli-profile-website/blog_posts/2022/11/08/resized_frankfurt6.jpg",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/08/resized_frankfurt6.jpg",
         "custom_js": false,
         "custom_css": false
     }
