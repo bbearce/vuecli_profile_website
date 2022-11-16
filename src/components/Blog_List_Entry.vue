@@ -59,6 +59,58 @@ h3 {
   box-shadow: -2px 1px 8px 1px lightgrey;
 }
 
+@media only screen and (min-width: 200px) {
+  .card {
+    margin: 0% 3% 5% 3%;
+  }
+
+  .blog_entry_cover_image {
+    width: 80%;
+  }
+}
+
+@media only screen and (min-width: 400px) {
+  .card {
+    margin: 0% 10% 5% 10%;
+  }
+}
+
+@media only screen and (min-width: 500px) {
+  .blog_entry_cover_image {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .card {
+    margin: 0% 15% 5% 15%;
+  }
+
+  .blog_entry_cover_image {
+    width: 50%;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  .card {
+    margin: 0% 25% 5% 25%;
+  }
+
+  .blog_entry_cover_image {
+    width: 60%;
+  }
+}
+
+@media only screen and (min-width: 1000px) {
+  .card {
+    margin: 0% 25% 5% 25%;
+  }
+
+  .blog_entry_cover_image {
+    width: 50%;
+  }
+}
+
 @media only screen and (min-width: 1300px) {
   .card {
     margin: 0% 28% 10% 28%;
