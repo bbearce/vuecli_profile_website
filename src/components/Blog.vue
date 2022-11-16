@@ -103,4 +103,8 @@ h3 {
 p {
     text-align: left;
 }
+
+ul {
+    text-align: left;
+}
 </style>
