@@ -66,8 +66,8 @@
         "author": "Benjamin Bearce",
         "date": "2022-11-08",
         "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/08/resized_frankfurt6.jpg",
-        "custom_js": false,
-        "custom_css": false
+        "custom_js": true,
+        "custom_css": true
     }
 
 ]
