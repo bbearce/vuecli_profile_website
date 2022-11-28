@@ -68,6 +68,16 @@
         "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/08/resized_frankfurt6.jpg",
         "custom_js": true,
         "custom_css": true
+    },
+    {
+        "id": 8,
+        "title": "Germany Trip",
+        "desc": "Day 9: Köln (Ankunft)",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-10",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
     }
 
 ]
