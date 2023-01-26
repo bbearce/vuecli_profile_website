@@ -4,14 +4,41 @@ client = storage.Client()  # Implicit environ set-up
 bucket_name = 'vuecli-profile-website'
 bucket = client.bucket(bucket_name)
 
-blobs_prefix = "blog_posts/2022/11/02/resized_"
+# blobs_prefix = "blog_posts/2022/11/02/resized_"
 # blobs_prefix = "blog_posts/2022/11/03/resized_"
 # blobs_prefix = "blog_posts/2022/11/04/resized_"
 # blobs_prefix = "blog_posts/2022/11/05/resized_"
 # blobs_prefix = "blog_posts/2022/11/06/resized_"
 # blobs_prefix = "blog_posts/2022/11/07/resized_"
 # blobs_prefix = "blog_posts/2022/11/08/resized_"
-# blobs_prefix = "blog_posts/2022/11/09/resized_"
+# blobs_prefix = "blog_posts/2022/11/11/resized_"
+# blobs_prefix = "blog_posts/2022/11/12/resized_"
+# blobs_prefix = "blog_posts/2022/11/13/resized_"
+# blobs_prefix = "blog_posts/2022/11/14/resized_"
+# blobs_prefix = "blog_posts/2022/11/15/resized_"
+# blobs_prefix = "blog_posts/2022/11/16/resized_"
+# blobs_prefix = "blog_posts/2022/11/17/resized_"
+# blobs_prefix = "blog_posts/2022/11/18/resized_"
+# blobs_prefix = "blog_posts/2022/11/19/resized_"
+# blobs_prefix = "blog_posts/2022/11/20/resized_"
+# blobs_prefix = "blog_posts/2022/11/21/resized_"
+# blobs_prefix = "blog_posts/2022/11/22/resized_"
+# blobs_prefix = "blog_posts/2022/11/23/resized_"
+# blobs_prefix = "blog_posts/2022/11/24/resized_"
+# blobs_prefix = "blog_posts/2022/11/25/resized_"
+# blobs_prefix = "blog_posts/2022/11/26/resized_"
+
+# blobs_prefix = "blog_posts/2022/11/28/resized_"
+# blobs_prefix = "blog_posts/2022/11/29/resized_"
+# blobs_prefix = "blog_posts/2022/11/30/resized_"
+# blobs_prefix = "blog_posts/2022/12/01/resized_"
+# blobs_prefix = "blog_posts/2022/12/02/resized_"
+# blobs_prefix = "blog_posts/2022/12/03/resized_"
+# blobs_prefix = "blog_posts/2022/12/04/resized_"
+# blobs_prefix = "blog_posts/2022/12/06/resized_"
+# blobs_prefix = "blog_posts/2022/12/07/resized_"
+# blobs_prefix = "blog_posts/2022/12/08/resized_"
+# blobs_prefix = "blog_posts/2022/12/09/resized_"
 
 images = [i for i in bucket.list_blobs(prefix=blobs_prefix)]
 count = len(images)

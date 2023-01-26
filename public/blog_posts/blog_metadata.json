@@ -76,8 +76,277 @@
         "author": "Benjamin Bearce",
         "date": "2022-11-10",
         "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": false,
+        "custom_css": true
+    },
+    {
+        "id": 9,
+        "title": "Germany Trip",
+        "desc": "Day 10 fri: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-11",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 10,
+        "title": "Germany Trip",
+        "desc": "Day 11 sat: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-12",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 11,
+        "title": "Germany Trip",
+        "desc": "Day 12 sun: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-13",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 12,
+        "title": "Germany Trip",
+        "desc": "Day 13 mon: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-14",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 13,
+        "title": "Germany Trip",
+        "desc": "Day 14 tue: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-15",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": false,
+        "custom_css": false
+    },
+    {
+        "id": 14,
+        "title": "Germany Trip",
+        "desc": "Day 15 wed: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-16",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": false,
+        "custom_css": false
+    },
+    {
+        "id": 15,
+        "title": "Germany Trip",
+        "desc": "Day 16 thur: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-17",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": false,
+        "custom_css": false
+    },
+    {
+        "id": 16,
+        "title": "Germany Trip",
+        "desc": "Day 17 fri: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-18",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": false,
+        "custom_css": false
+    },
+    {
+        "id": 17,
+        "title": "Germany Trip",
+        "desc": "Day 18 sat: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-19",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": false,
+        "custom_css": false
+    },
+    {
+        "id": 18,
+        "title": "Germany Trip",
+        "desc": "Day 19 sun: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-20",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 19,
+        "title": "Germany Trip",
+        "desc": "Day 20 mon: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-21",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 20,
+        "title": "Germany Trip",
+        "desc": "Day 21 tue: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-22",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 21,
+        "title": "Germany Trip",
+        "desc": "Day 22 wed: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-23",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 22,
+        "title": "Germany Trip",
+        "desc": "Day 23 thur: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-24",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 23,
+        "title": "Germany Trip",
+        "desc": "Day 24 fri: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-25",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 24,
+        "title": "Germany Trip",
+        "desc": "Day 25 sat: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-26",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 25,
+        "title": "Germany Trip",
+        "desc": "Day 27 mon: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-28",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 26,
+        "title": "Germany Trip",
+        "desc": "Day 28 tue: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-29",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 27,
+        "title": "Germany Trip",
+        "desc": "Day 29 wed: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-11-30",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 28,
+        "title": "Germany Trip",
+        "desc": "Day 30 thur: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-12-01",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 29,
+        "title": "Germany Trip",
+        "desc": "Day 31 fri: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-12-02",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 30,
+        "title": "Germany Trip",
+        "desc": "Day 32 sat: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-12-03",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 31,
+        "title": "Germany Trip",
+        "desc": "Day 33 sun: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-12-04",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 32,
+        "title": "Germany Trip",
+        "desc": "Day 34 tue: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-12-06",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 33,
+        "title": "Germany Trip",
+        "desc": "Day 35 wed: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-12-07",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 34,
+        "title": "Germany Trip",
+        "desc": "Day 36 thur: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-12-08",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
+        "custom_js": true,
+        "custom_css": true
+    },
+    {
+        "id": 35,
+        "title": "Germany Trip",
+        "desc": "Day 37 fri: ",
+        "author": "Benjamin Bearce",
+        "date": "2022-12-09",
+        "image":"https://storage.googleapis.com/vuecli-profile-website/blog_posts/2022/11/10/resized_kölner_kölsch1.jpg",
         "custom_js": true,
         "custom_css": true
     }
-
 ]
